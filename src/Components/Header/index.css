@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+.nav-container {
+  background-color: #f1f5f9;
+  height: 20vh;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  padding: 20px;
+}
+.nav-img {
+  height: 80px;
+  margin-left: 10%;
+}

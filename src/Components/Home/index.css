@@ -1,0 +1,45 @@
+.home-container {
+  padding: 20px;
+  background-color: #ffffff;
+  min-height: 90vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.hm-course-list-container {
+  padding-left: 0;
+  display: flex;
+  flex-wrap: wrap;
+  list-style-type: none;
+  padding: 10px;
+}
+.inner-container {
+  display: flex;
+  width: 90%;
+  align-items: center;
+  justify-content: center;
+  font-family: 'Roboto';
+  text-align: center;
+}
+.fail-img {
+  height: 400px;
+}
+.fail-par {
+  color: #475569;
+}
+.fail-button {
+  background-color: #4656a1;
+  text-align: center;
+  color: white;
+  border-width: 0;
+  padding: 15px;
+  width: 100px;
+  cursor: pointer;
+  font-weight: bold;
+  border-radius: 5px;
+}
+.main-heading {
+  align-self: flex-start;
+  margin-left: 7%;
+}

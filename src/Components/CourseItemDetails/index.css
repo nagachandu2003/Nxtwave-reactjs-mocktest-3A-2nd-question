@@ -1,0 +1,29 @@
+.cd-cont {
+  border-radius: 8px;
+  font-family: 'Roboto';
+  display: flex;
+  align-items: flex-start;
+  width: 60%;
+  box-shadow: 0px 0px 5px 5px #64748b;
+}
+.cd-img {
+  height: 400px;
+  border-top-left-radius: 8px;
+  border-bottom-left-radius: 8px;
+  margin-right: 25px;
+}
+.cd-inner-cont {
+  padding: 10px;
+}
+.cd-heading {
+  color: #1e293b;
+}
+.cd-par {
+  color: #475569;
+}
+.cid-cont {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 80vh;
+}
